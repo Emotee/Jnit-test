@@ -1,2 +1,2 @@
-# Jnit-test
+# JUnit-test
 Vectors &amp; Caculator Test
